@@ -1,0 +1,38 @@
+{
+  "Index": 3,
+  "Map": "Food Island",
+  "Marco_Data": [
+    {
+      "Index": 1,
+      "Wave": 2,
+      "Method": "SpawnTower",
+      "Position": "-40.5516968, -1.01757812, -91.4358215, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "UnitValue": 1,
+      "Time": 59,
+      "Reference": true,
+      "Unit": "Zeke"
+    },
+    {
+      "Index": 2,
+      "Wave": 2,
+      "Method": "SpawnTower",
+      "Position": "-38.3466797, -0.966003418, -91.2737732, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "UnitValue": 2,
+      "Time": 73,
+      "Reference": true,
+      "Unit": "Zeke"
+    },
+    {
+      "Index": 3,
+      "Wave": 3,
+      "Method": "SpawnTower",
+      "Position": "-38.7662964, -0.966003418, -93.8683777, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "UnitValue": 3,
+      "Time": 87,
+      "Reference": true,
+      "Unit": "Zeke"
+    }
+  ],
+  "Mode": "Infinite",
+  "Version": 1
+}
